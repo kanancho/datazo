@@ -2,12 +2,12 @@
 layout: post
 title: Diagrama
 description: Escribir en Markdown
-tags: markdown, jekill, blog, github
+tags: markdown, jekill, blog, github, mermaid
 ---
 
 ## UML diagrams
 
-You can render UML diagrams using [Mermaid](https://mermaidjs.github.io/). For example, this will produce a sequence diagram:
+Puede renderizar diagramas UML usando [Mermaid](https://mermaidjs.github.io/). Por ejemplo, esto producirá un diagrama de secuencia:
 
 ```mermaid
 sequenceDiagram
