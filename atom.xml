@@ -4,7 +4,7 @@
  <title>Datazo</title>
  <link href="https://p0wex.github.io/Gesko/atom.xml" rel="self"/>
  <link href="https://p0wex.github.io/Gesko/"/>
- <updated>2022-02-25T00:36:05+01:00</updated>
+ <updated>2022-02-25T00:41:20+01:00</updated>
  <id>https://p0wex.github.io</id>
  <author>
    <name>hernan</name>
@@ -14,12 +14,12 @@
  
  <entry>
    <title>Diagrama</title>
-   <link href="https://p0wex.github.io/Gesko/2022/02/24/diagramas-blog-jekill"/>
+   <link href="https://p0wex.github.io/Gesko/2022/02/24/diagramas-mermaid-jekill"/>
    <updated>2022-02-24T00:00:00+01:00</updated>
-   <id>https://p0wex.github.io/2022/02/24/diagramas-blog-jekill</id>
+   <id>https://p0wex.github.io/2022/02/24/diagramas-Mermaid-jekill</id>
    <content type="html">&lt;h2 id=&quot;uml-diagrams&quot;&gt;UML diagrams&lt;/h2&gt;
 
-&lt;p&gt;You can render UML diagrams using &lt;a href=&quot;https://mermaidjs.github.io/&quot;&gt;Mermaid&lt;/a&gt;. For example, this will produce a sequence diagram:&lt;/p&gt;
+&lt;p&gt;Puede renderizar diagramas UML usando &lt;a href=&quot;https://mermaidjs.github.io/&quot;&gt;Mermaid&lt;/a&gt;. Por ejemplo, esto producirá un diagrama de secuencia:&lt;/p&gt;
 
 &lt;pre&gt;&lt;code class=&quot;language-mermaid&quot;&gt;sequenceDiagram
 Alice -&amp;gt;&amp;gt; Bob: Hello Bob, how are you?
